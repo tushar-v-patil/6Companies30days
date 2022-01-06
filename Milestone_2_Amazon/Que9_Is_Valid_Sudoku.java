@@ -1,3 +1,6 @@
+/*
+Que9: https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/#
+*/
 class Solution{
     static int isValid(int board[][]){
         Set<String> set = new HashSet<>();
