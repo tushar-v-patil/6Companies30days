@@ -1,5 +1,5 @@
 /*
-Que06: https://leetcode.com/problems/path-with-maximum-probability/
+Que01: https://leetcode.com/problems/path-with-maximum-probability/
 */
 class Solution {
     public double maxProbability(int n, int[][] edges, double[] succProb, int start, int end) {
